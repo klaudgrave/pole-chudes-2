@@ -1,0 +1,4124 @@
+{
+  "format": "pole-ovl",
+  "version": 1,
+  "headerValue": 686,
+  "headerResidue": "12e8ba03f6c3fc7542a0830d2530003c30",
+  "questions": [
+    {
+      "word": "БИБЛИОГРАФИЯ",
+      "wordResidue": "860d08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ДИСПЕРСИЯ",
+      "wordResidue": "a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ОПТИКА",
+      "wordResidue": "a940b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "СЕМАНТИКА",
+      "wordResidue": "a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "СИНТАКСИС",
+      "wordResidue": "a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ПУНТКУАЦИЯ",
+      "wordResidue": "b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ФЛАТТЕР",
+      "wordResidue": "40b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ИЗОТОП",
+      "wordResidue": "a940b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ДИССЕРТАЦИЯ",
+      "wordResidue": "aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ОППОНЕНТ",
+      "wordResidue": "b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "СТИПЕНДИАТ",
+      "wordResidue": "b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "РЕФЕРАТ",
+      "wordResidue": "40b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "СЕЙСМИКА",
+      "wordResidue": "b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "ШИХТА",
+      "wordResidue": "bba940b2a5b0aca8ad08c606810d01",
+      "theme": "НАУЧНЫЙ ТЕРМИН",
+      "themeResidue": "08c606810d01"
+    },
+    {
+      "word": "СКРУДЖ",
+      "wordResidue": "a940b2a5b0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "a5b0aca8ad08c606810d01"
+    },
+    {
+      "word": "ПЯТАЧОК",
+      "wordResidue": "aea8a5b0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "a5b0aca8ad08c606810d01"
+    },
+    {
+      "word": "РЕМБО",
+      "wordResidue": "a5b0aea8a5b0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "a5b0aca8ad08c606810d01"
+    },
+    {
+      "word": "БАЛБЕС",
+      "wordResidue": "b0aea8a5b0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "a5b0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЭЛЕКТРОНИК",
+      "wordResidue": "b0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "АЛИСА",
+      "wordResidue": "a5b0aea8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ФАНТОМАС",
+      "wordResidue": "a8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЧЕРЕПАШКИ",
+      "wordResidue": "aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "КАРЛСОН",
+      "wordResidue": "aea8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЯКУБОВИЧ",
+      "wordResidue": "a8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЛИСТЬЕВ",
+      "wordResidue": "aea8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ШТИРЛИЦ",
+      "wordResidue": "aea8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "МЮЛЛЕР",
+      "wordResidue": "b0aea8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "МАТРОСКИН",
+      "wordResidue": "aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЧЕБУРАШКА",
+      "wordResidue": "aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ШАПОКЛЯК",
+      "wordResidue": "a8aab0aca8ad08c606810d01",
+      "theme": "КИНОГЕРОИ",
+      "themeResidue": "aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "СПИНОЗА",
+      "wordResidue": "aea8aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "a8aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "СЕНЕКА",
+      "wordResidue": "b4bba8aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "a8aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "КАНТ",
+      "wordResidue": "b1aeb4bba8aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "a8aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ХАЙДЕГГЕР",
+      "wordResidue": "aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "КАМЮ",
+      "wordResidue": "b1aeb4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "НИЦШЕ",
+      "wordResidue": "aeb4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "САРТР",
+      "wordResidue": "aeb4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "КЬЕРКЕГОР",
+      "wordResidue": "aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ЯСПЕРС",
+      "wordResidue": "b4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ФРОММ",
+      "wordResidue": "aeb4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ФРЕЙД",
+      "wordResidue": "aeb4bbb0aab0aca8ad08c606810d01",
+      "theme": "ФИЛОСОФЫ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ФЕНИМОР",
+      "wordResidue": "bbb0aab0aca8ad08c606810d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "b0aab0aca8ad08c606810d01"
+    },
+    {
+      "word": "ФУКИДИД",
+      "wordResidue": "a8b0aab0aca8ad08c606810d01",
+      "theme": "ПИСАТЕЛИ, ИСТОРИКИ",
+      "themeResidue": "0d01"
+    },
+    {
+      "word": "ТАЦИТ",
+      "wordResidue": "a5aba84c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ, ИСТОРИКИ",
+      "themeResidue": "0d01"
+    },
+    {
+      "word": "БУЛГАКОВ",
+      "wordResidue": "4c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "4c40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ОЛЕША",
+      "wordResidue": "a5aba84c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "4c40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЗОЩЕНКО",
+      "wordResidue": "a84c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "4c40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЦВЕТАЕВА",
+      "wordResidue": "4c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "4c40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СТЕНДАЛЬ",
+      "wordResidue": "4c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПИСАТЕЛИ",
+      "themeResidue": "4c40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "САТИРИК",
+      "wordResidue": "a84c40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПРОФЕССИИ",
+      "themeResidue": "40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЭСКУЛАП",
+      "wordResidue": "a8a840a8b1b2aeb0a8aaa80d01",
+      "theme": "ПРОФЕССИИ",
+      "themeResidue": "40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "САНТЕХНИК",
+      "wordResidue": "40a8b1b2aeb0a8aaa80d01",
+      "theme": "ПРОФЕССИИ",
+      "themeResidue": "40a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ВЕДЬМА",
+      "wordResidue": "b1a8a840a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЛЕШИЙ",
+      "wordResidue": "a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ШЛЮХА",
+      "wordResidue": "a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СКРЯГА",
+      "wordResidue": "40abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СКВАЛЫГА",
+      "wordResidue": "bea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЖМОТ",
+      "wordResidue": "a8a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ФРАЕР",
+      "wordResidue": "a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СТЕРВА",
+      "wordResidue": "40abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "РЕДИСКА",
+      "wordResidue": "abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "МОШЕННИК",
+      "wordResidue": "bea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЖУЛИК",
+      "wordResidue": "a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ПРОЙДОХА",
+      "wordResidue": "bea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ПОДЛЕЦ",
+      "wordResidue": "40abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ОБОЛТУС",
+      "wordResidue": "abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "БИНДЮЖНИК",
+      "wordResidue": "a4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ФУФЛО",
+      "wordResidue": "a540abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СУТЕНЕР",
+      "wordResidue": "abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЖАДИНА",
+      "wordResidue": "40abbea4a8b1b2aeb0a8aaa80d01",
+      "theme": "ПЛОХИЕ ЛЮДИ",
+      "themeResidue": "b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ШИЗОФРЕНИЯ",
+      "wordResidue": "a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "ada8bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ИМПОТЕНЦИЯ",
+      "wordResidue": "a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "b6a8bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "РЕВМАТИЗМ",
+      "wordResidue": "bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a7acbfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "РАДИКУЛИТ",
+      "wordResidue": "bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ПРЫЩ",
+      "wordResidue": "a7ada8a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЧИРИЙ",
+      "wordResidue": "ada8a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЛИШАЙ",
+      "wordResidue": "ada8a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ОПУХОЛЬ",
+      "wordResidue": "a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ВАРИКОЗ",
+      "wordResidue": "a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "СВИЩ",
+      "wordResidue": "a7ada8a8b2bfa8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "a8b2bfa8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "АППЕНДИЦИТ",
+      "wordResidue": "a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "b6a8b2a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "НАСМОРК",
+      "wordResidue": "b6a8b2a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "b6a8b2a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "КАШЕЛЬ",
+      "wordResidue": "a8b6a8b2a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "b6a8b2a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "ЧАХОТКА",
+      "wordResidue": "b6a8b2a8b1b2aeb0a8aaa80d01",
+      "theme": "БОЛЕЗНИ",
+      "themeResidue": "b6a8b2a8b1b2aeb0a8aaa80d01"
+    },
+    {
+      "word": "НИРВАНА",
+      "wordResidue": "b6a8b2a8b1b2aeb0a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "КАЙФ",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "СТРАХ",
+      "wordResidue": "a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "РЕВНОСТЬ",
+      "wordResidue": "40afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ЛЮБОВЬ",
+      "wordResidue": "40a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "НЕНАВИСТЬ",
+      "wordResidue": "afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "НЕЖНОСТЬ",
+      "wordResidue": "40afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ОТВАГА",
+      "wordResidue": "40a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "МУЖЕСТВО",
+      "wordResidue": "40afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ЛЕНЬ",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ГНЕВ",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "СМЕХ",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ДОЛГ",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "БЛАЖЕНСТВО",
+      "wordResidue": "aeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "НЕГА",
+      "wordResidue": "a2a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "СЛАДОСТРАСТИЕ",
+      "wordResidue": "aaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ЭКСГИБИЦИОНИЗМ",
+      "wordResidue": "a8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "СИМУЛЯЦИЯ",
+      "wordResidue": "afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ЖАДНОСТЬ",
+      "wordResidue": "40afaeb0aeaaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "СКУПЕРДЯЙСТВО",
+      "wordResidue": "aaa8a8aaa80d01",
+      "theme": "ЧУСТВА И ПОРОКИ",
+      "themeResidue": "a8aaa80d01"
+    },
+    {
+      "word": "ТРЕСТ",
+      "wordResidue": "a040a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "БИЗНЕС",
+      "themeResidue": "40a840afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ВАУЧЕР",
+      "wordResidue": "40a840afaeb0aeaaa8a8aaa80d01",
+      "theme": "БИЗНЕС",
+      "themeResidue": "40a840afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МАРКЕТИНГ",
+      "wordResidue": "afaeb0aeaaa8a8aaa80d01",
+      "theme": "БИЗНЕС",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РУБЛЬ",
+      "wordResidue": "b1a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДОЛЛАР",
+      "wordResidue": "a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЙЕНА",
+      "wordResidue": "b2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПЕСО",
+      "wordResidue": "b2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФУНТ",
+      "wordResidue": "b2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МАРКА",
+      "wordResidue": "a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШЕКЕЛЬ",
+      "wordResidue": "a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛЕВ",
+      "wordResidue": "beb2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РУПИЯ",
+      "wordResidue": "a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КРОНА",
+      "wordResidue": "a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФРАНК",
+      "wordResidue": "a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛИРА",
+      "wordResidue": "b2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПИАСТР",
+      "wordResidue": "a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КУПОН",
+      "wordResidue": "a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛЕЙ",
+      "wordResidue": "beb2a0a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЗЛОТЫЙ",
+      "wordResidue": "a8ada3afaeb0aeaaa8a8aaa80d01",
+      "theme": "ВАЛЮТА",
+      "themeResidue": "a8ada3afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГЕРОСТРАТ",
+      "wordResidue": "afaeb0aeaaa8a8aaa80d01",
+      "theme": "ИСТОРИЯ",
+      "themeResidue": "a0b2afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФОРТУНА",
+      "wordResidue": "a0b2afaeb0aeaaa8a8aaa80d01",
+      "theme": "УДАЧА",
+      "themeResidue": "ada0a0b2afaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РЕФЕРЕНДУМ",
+      "wordResidue": "aeb0aeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b3acaeb0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПРИВАТИЗАЦИЯ",
+      "wordResidue": "aeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "a0b6a8bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КОНСЕРВАТОР",
+      "wordResidue": "bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2aeb0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РАДИКАЛ",
+      "wordResidue": "a0b2aeb0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2aeb0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РУЦКОЙ",
+      "wordResidue": "aaa0b2aeb0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2aeb0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ХАСБУЛАТОВ",
+      "wordResidue": "b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "aea2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ИМРАНОВИЧ",
+      "wordResidue": "a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b7a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "СЪЕЗД",
+      "wordResidue": "a8aaa0b7a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b7a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ИНПИЧМЕНТ",
+      "wordResidue": "a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДЕПУТАТ",
+      "wordResidue": "a0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МИТИНГ",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "БУРБУЛИС",
+      "wordResidue": "b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШАХРАЙ",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЧУБАЙС",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПАТРИОТ",
+      "wordResidue": "a0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДЕМОКРАТ",
+      "wordResidue": "b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЕЛЬЦИН",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГОРБАЧЕВ",
+      "wordResidue": "b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КЛИНТОН",
+      "wordResidue": "a0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФАШИСТ",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФАШИЗМ",
+      "wordResidue": "aaa0b2a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "b2a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МУССОЛИНИ",
+      "wordResidue": "a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "a8a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГИТЛЕР",
+      "wordResidue": "aaa0a8a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "a8a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "РЕЙГАН",
+      "wordResidue": "aaa0a8a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ПОЛИТИКА",
+      "themeResidue": "a8a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПАСКАЛЬ",
+      "wordResidue": "a0a8a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ЯЗЫКИ",
+      "themeResidue": "abbca0a8a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "АССЕМБЛЕР",
+      "wordResidue": "a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ЯЗЫКИ",
+      "themeResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ХИНДИ",
+      "wordResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ЯЗЫКИ",
+      "themeResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ИВРИТ",
+      "wordResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ЯЗЫКИ",
+      "themeResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ИДИШ",
+      "wordResidue": "a8a1aba5b0a2b0bfaeaaa8a8aaa80d01",
+      "theme": "ЯЗЫКИ",
+      "themeResidue": "a1aba5b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ВЕРНИСАЖ",
+      "wordResidue": "b0a2b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "СТИХ",
+      "wordResidue": "b2b3b0a0b0a2b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "b0a2b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МЕЛЬПОМЕНА",
+      "wordResidue": "b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПСИХЕЯ",
+      "wordResidue": "b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МУЗА",
+      "wordResidue": "b2b3b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПЕГАС",
+      "wordResidue": "b3b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДАЛИ",
+      "wordResidue": "b2b3b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГОЙЯ",
+      "wordResidue": "b2b3b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "БАРОККО",
+      "wordResidue": "a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДЕКАДЕНС",
+      "wordResidue": "ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "СТРИПТИЗ",
+      "wordResidue": "ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "КУЛЬТУРА",
+      "themeResidue": "ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШТРАУС",
+      "wordResidue": "b0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "b0a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МЕРКУРИ",
+      "wordResidue": "a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a8a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МОЦАРТ",
+      "wordResidue": "a8a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a8a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ВЕРДИ",
+      "wordResidue": "a0a8a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a8a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "СМЕТАНА",
+      "wordResidue": "a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a0a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШНИТКЕ",
+      "wordResidue": "a0a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a0a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПУЧЧИНИ",
+      "wordResidue": "a0ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a8a0ada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ОРАТОРИЯ",
+      "wordResidue": "ada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a8bfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПИККОЛО",
+      "wordResidue": "bfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛЕГАТО",
+      "wordResidue": "aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "АДАЖИО",
+      "wordResidue": "aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФОРТЕ",
+      "wordResidue": "a0aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПИАНО",
+      "wordResidue": "a0aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛИСТ",
+      "wordResidue": "aaa0aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШУБЕРТ",
+      "wordResidue": "aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШУМАН",
+      "wordResidue": "a0aebfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "aebfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПОЛОНЕЗ",
+      "wordResidue": "bfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a7bfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ХОР",
+      "wordResidue": "bbaaa0a7bfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a7bfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПЕНИЕ",
+      "wordResidue": "a0a7bfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "МУЗЫКА",
+      "themeResidue": "a7bfada0b0bfaeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДЫЛДА",
+      "wordResidue": "a0a7bfada0b0bfaeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КАРЛИК",
+      "wordResidue": "abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПОНЧИК",
+      "wordResidue": "abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ТОЩИЙ",
+      "wordResidue": "a5abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ТОЛСТЯК",
+      "wordResidue": "aea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ДЕБИЛ",
+      "wordResidue": "a5abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЛЫСЫЙ",
+      "wordResidue": "a5abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ШАТЕН",
+      "wordResidue": "a5abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "БЛОНДИН",
+      "wordResidue": "aea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "БРЮНЕТ",
+      "wordResidue": "abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПЛЕШИВЫЙ",
+      "wordResidue": "a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "ТИП ЧЕЛОВЕКА",
+      "themeResidue": "aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КРИШНА",
+      "wordResidue": "abaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "АЛЛАХ",
+      "wordResidue": "a8bfaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ХРИСТОС",
+      "wordResidue": "aea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЗЕВС",
+      "wordResidue": "a3a8bfaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "АППОЛОН",
+      "wordResidue": "aea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГЕРА",
+      "wordResidue": "a3a8bfaea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КУПИДОН",
+      "wordResidue": "aea2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "aea2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "АРТЕМИДА",
+      "wordResidue": "a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a0a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПОСЕЙДОН",
+      "wordResidue": "a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "ada2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПАПА",
+      "wordResidue": "a3a8bfada2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "ada2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ВУЛКАН",
+      "wordResidue": "bfada2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "ada2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ПРОМЕТЕЙ",
+      "wordResidue": "a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГЕФЕСТ",
+      "wordResidue": "bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "НАЯДА",
+      "wordResidue": "a8bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "НИМФА",
+      "wordResidue": "a8bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ЭРОС",
+      "wordResidue": "a3a8bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МЕРКУРИЙ",
+      "wordResidue": "a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ГЕРМЕС",
+      "wordResidue": "bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "БОРЕЙ",
+      "wordResidue": "a8bfa9a2a5aaa0aeaaa8a8aaa80d01",
+      "theme": "РЕЛИГИЯ",
+      "themeResidue": "a9a2a5aaa0aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ФРАНЦИСКАНЕЦ",
+      "wordResidue": "aeaaa8a8aaa80d01",
+      "theme": "МОНАХИ",
+      "themeResidue": "b1aaa0ada5b6aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "ИЕЗУИТ",
+      "wordResidue": "b1aaa0ada5b6aeaaa8a8aaa80d01",
+      "theme": "МОНАХИ",
+      "themeResidue": "b1aaa0ada5b6aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "КАРМЕЛИТ",
+      "wordResidue": "a0ada5b6aeaaa8a8aaa80d01",
+      "theme": "МОНАХИ",
+      "themeResidue": "a8b2a0ada5b6aeaaa8a8aaa80d01"
+    },
+    {
+      "word": "МЕРИН",
+      "wordResidue": "a8a8b2a0ada5b6aeaaa8a8aaa80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЛОШАДЬ",
+      "wordResidue": "a8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОБЫЛА",
+      "wordResidue": "a8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЛОШАК",
+      "wordResidue": "ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "МУЛ",
+      "wordResidue": "a0b8ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КУРИЦА",
+      "wordResidue": "a8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КЛОП",
+      "wordResidue": "b8ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПЕС",
+      "wordResidue": "a0b8ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ХОМЯК",
+      "wordResidue": "ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ОВЦА",
+      "wordResidue": "b8ada8a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ТАРАКАН",
+      "wordResidue": "a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ДОМАШНИЕ ЖИВОТНЫЕ",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ДРОМАДЕР",
+      "wordResidue": "40a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СКУНС",
+      "wordResidue": "adbba540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЛЕМУР",
+      "wordResidue": "adbba540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ТАПИР",
+      "wordResidue": "adbba540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "БАРС",
+      "wordResidue": "b2adbba540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ТИГР",
+      "wordResidue": "b2adbba540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КЕНГУРУ",
+      "wordResidue": "a540a6a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "40a6a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ОРАНГУТАНГ",
+      "wordResidue": "a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ГОРИЛЛА",
+      "wordResidue": "a5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КАШАЛОТ",
+      "wordResidue": "a5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ШАКАЛ",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ГИЕНА",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "МУСТАНГ",
+      "wordResidue": "a5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "МАМОНТ",
+      "wordResidue": "bba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КУГУАР",
+      "wordResidue": "bba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЗЕБРА",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЭМУ",
+      "wordResidue": "aeb2adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "НАНДУ",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЯГУАР",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ПАНТЕРА",
+      "wordResidue": "a5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ГИБОН",
+      "wordResidue": "adbba5ada3a8a2aeb2adbba5a80d01",
+      "theme": "ЖИВОТНЫЕ",
+      "themeResidue": "ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ШИЛИШПЕР",
+      "wordResidue": "ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "b8afa5b0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ПЕСКАРЬ",
+      "wordResidue": "b0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0b0bcb0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СКУМБРИЯ",
+      "wordResidue": "ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a1b0a8bfada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "УГОРЬ",
+      "wordResidue": "b0a8bfada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "bcb0a8bfada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СТАВРИДА",
+      "wordResidue": "ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "b0a8a4a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ПДЛЕЩИК",
+      "wordResidue": "a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "b9a8aaa0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КАМБАЛА",
+      "wordResidue": "a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "АКУЛА",
+      "wordResidue": "aba0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СОМ",
+      "wordResidue": "bba0aba0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ХЕК",
+      "wordResidue": "bba0aba0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СИГ",
+      "wordResidue": "bba0aba0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЛЕЩ",
+      "wordResidue": "bba0aba0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "a0aba0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ФОРЕЛЬ",
+      "wordResidue": "a0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "abbca0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ГУРАМИ",
+      "wordResidue": "a0a0ada3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "aca8a0a0ada3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "МЕЧЕНОСЕЦ",
+      "wordResidue": "a3a8a2aeb2adbba5a80d01",
+      "theme": "РЫБЫ",
+      "themeResidue": "adaeb1a5b6a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ЭРЕБУС",
+      "wordResidue": "b1a5b6a3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ГВИНЕЯ",
+      "wordResidue": "b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ТЕРРОР",
+      "wordResidue": "b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ВУЛКАН",
+      "themeResidue": "b4a8bfa3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ТИТИКАКА",
+      "wordResidue": "bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ОЗЕРО",
+      "themeResidue": "a0aaa0bfa3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "СЕВАН",
+      "wordResidue": "a0aaa0bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ОЗЕРО",
+      "themeResidue": "a0aaa0bfa3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КРАКАТАУ",
+      "wordResidue": "bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ВУЛКАН",
+      "themeResidue": "a0b3bfa3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ХОККАЙДО",
+      "wordResidue": "bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ФИДЖИ",
+      "wordResidue": "a0b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ТАВРИЯ",
+      "wordResidue": "b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "КРЫМ",
+      "wordResidue": "b0a0b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "САХАЛИН",
+      "wordResidue": "a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ШЕЛЬФ",
+      "wordResidue": "a0b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "РИФ",
+      "wordResidue": "a3b0a0b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "ГЕОГРАФИЯ",
+      "themeResidue": "a3a8a2aeb2adbba5a80d01"
+    },
+    {
+      "word": "ШЕРПА",
+      "wordResidue": "a0b4a8bfa3a8a2aeb2adbba5a80d01",
+      "theme": "НАЦИОНАЛЬНОСТИ",
+      "themeResidue": "adbba5a80d01"
+    },
+    {
+      "word": "ЕВРЕЙ",
+      "wordResidue": "ada0abbcadaeb1b2a8adbba5a80d01",
+      "theme": "НАЦИОНАЛЬНОСТИ",
+      "themeResidue": "adbba5a80d01"
+    },
+    {
+      "word": "РУССКИЙ",
+      "wordResidue": "abbcadaeb1b2a8adbba5a80d01",
+      "theme": "НАЦИОНАЛЬНОСТИ",
+      "themeResidue": "adbba5a80d01"
+    },
+    {
+      "word": "ИНДУС",
+      "wordResidue": "ada0abbcadaeb1b2a8adbba5a80d01",
+      "theme": "НАЦИОНАЛЬНОСТИ",
+      "themeResidue": "adbba5a80d01"
+    },
+    {
+      "word": "БРАХМАПУТРА",
+      "wordResidue": "b1b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "afb3b2b0a0b1b2a8adbba5a80d01"
+    },
+    {
+      "word": "САРОВ",
+      "wordResidue": "a0afb3b2b0a0b1b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "afb3b2b0a0b1b2a8adbba5a80d01"
+    },
+    {
+      "word": "ДЕЛИ",
+      "wordResidue": "a4a0afb3b2b0a0b1b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "afb3b2b0a0b1b2a8adbba5a80d01"
+    },
+    {
+      "word": "АНТАНАНАРИВУ",
+      "wordResidue": "b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "ada0b0a8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "НДЖАМЕНА",
+      "wordResidue": "b0a8a2b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "ada0b0a8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "МЕЛЬБУРН",
+      "wordResidue": "b0a8a2b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0adb0a8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ОКЛЕНД",
+      "wordResidue": "b0adb0a8a2b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0adb0a8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "МАРИУПОЛЬ",
+      "wordResidue": "a8a2b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "aeabbca8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ПЕТЕРБУРГ",
+      "wordResidue": "a8a2b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b3b0a3a8a2b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ЛИЛЛЕХАММЕР",
+      "wordResidue": "b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "a0acaca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ШТУТГАРТ",
+      "wordResidue": "aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0b2aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "МАРСЕЛЬ",
+      "wordResidue": "b2aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "bcb2aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ГЛАЗГО",
+      "wordResidue": "bcb2aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "bcb2aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ЭДИНБУРГ",
+      "wordResidue": "aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0a3aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "БРНО",
+      "wordResidue": "a4a0b0a3aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0a3aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ПЛЗЕНЬ",
+      "wordResidue": "b0a3aca5b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b0a3aca5b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "БРАТИСЛАВА",
+      "wordResidue": "b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "aba0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ХОДЖЕНТ",
+      "wordResidue": "a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b2a0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "КОКАНД",
+      "wordResidue": "b2a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b2a0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "БУХАРА",
+      "wordResidue": "b2a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b2a0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "РОВНО",
+      "wordResidue": "a0b2a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b2a0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "ЛЬВОВ",
+      "wordResidue": "a0b2a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРОДА",
+      "themeResidue": "b2a0a2a0b0b3b2a8adbba5a80d01"
+    },
+    {
+      "word": "БОСНИЯ",
+      "wordResidue": "b2a0a2a0b0b3b2a8adbba5a80d01",
+      "theme": "ГОРЯЧАЯ ТОЧКА",
+      "themeResidue": "a8adbba5a80d01"
+    },
+    {
+      "word": "САРАЕВО",
+      "wordResidue": "40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ГОРЯЧАЯ ТОЧКА",
+      "themeResidue": "a8adbba5a80d01"
+    },
+    {
+      "word": "КАРАБАХ",
+      "wordResidue": "40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ГОРЯЧАЯ ТОЧКА",
+      "themeResidue": "a8adbba5a80d01"
+    },
+    {
+      "word": "ГЕРЦЕГОВИНА",
+      "wordResidue": "aaa0a8adbba5a80d01",
+      "theme": "ГОРЯЧАЯ ТОЧКА",
+      "themeResidue": "a8adbba5a80d01"
+    },
+    {
+      "word": "АРМЕНИЯ",
+      "wordResidue": "40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ГОРЯЧАЯ ТОЧКА",
+      "themeResidue": "a8adbba5a80d01"
+    },
+    {
+      "word": "СТРАУС",
+      "wordResidue": "bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "b1bf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ОЛЯПКА",
+      "wordResidue": "bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ДРОЗД",
+      "wordResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КЛЕСТ",
+      "wordResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ОРЛАН",
+      "wordResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "a0bf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "САПСАН",
+      "wordResidue": "bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "adbf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КОРШУН",
+      "wordResidue": "bf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "adbf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КИВИ",
+      "wordResidue": "bbadbf40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "adbf40b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КОЛИБРИ",
+      "wordResidue": "40b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "b0a840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ГРИФ",
+      "wordResidue": "bbb0a840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "b0a840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "СОЙКА",
+      "wordResidue": "b0a840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "b0a840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ПАВЛИН",
+      "wordResidue": "a840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "ada840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "СТРИЖ",
+      "wordResidue": "ada840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "ada840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ДЯТЕЛ",
+      "wordResidue": "ada840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "ПТИЦЫ",
+      "themeResidue": "ada840b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "МАХАОН",
+      "wordResidue": "a840b2aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОЫЕ",
+      "themeResidue": "b2aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ТАРАНТУЛ",
+      "wordResidue": "b2aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КАРАКУТ",
+      "wordResidue": "bba5aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ШМЕЛЬ",
+      "wordResidue": "aeacbba5aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ПЧЕЛА",
+      "wordResidue": "aeacbba5aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "МУХА",
+      "wordResidue": "aaaeacbba5aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ЦЕЦЕ",
+      "wordResidue": "aaaeacbba5aeb7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aeb7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КАПУСТНИЦА",
+      "wordResidue": "b7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "a0b7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ПАУК",
+      "wordResidue": "aaaeacbba5a0b7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "a0b7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "МУРАВЕЙ",
+      "wordResidue": "bba5a0b7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "a0b7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "СКАРАБЕЙ",
+      "wordResidue": "a5a0b7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "a0b7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "КОМАР",
+      "wordResidue": "aeacbba5a0b7aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "a0b7aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "СОРОКАНОЖКА",
+      "wordResidue": "aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aaa0aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ШЕРШЕНЬ",
+      "wordResidue": "bba5aaa0aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aaa0aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ОВОД",
+      "wordResidue": "aaaeacbba5aaa0aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aaa0aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "СЛЕПЕНЬ",
+      "wordResidue": "bba5aaa0aaa0a8adbba5a80d01",
+      "theme": "НАСЕКОМЫЕ",
+      "themeResidue": "aaa0aaa0a8adbba5a80d01"
+    },
+    {
+      "word": "ЙЕН",
+      "wordResidue": "a5aaaeacbba5aaa0aaa0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ДЖАНИБЕКОВ",
+      "wordResidue": "aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ВОЛКОВ",
+      "wordResidue": "a0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ВЕГА",
+      "wordResidue": "aeada0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "САЛЮТ",
+      "wordResidue": "ada0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "СОЮЗ",
+      "wordResidue": "aeada0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ГУРРАГЧА",
+      "wordResidue": "b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "РЕМЕК",
+      "wordResidue": "ada0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "БАЙКОНУР",
+      "wordResidue": "b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ТИТОВ",
+      "wordResidue": "ada0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "ПЛИСЕЦК",
+      "wordResidue": "a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КОСМОНАВТИКА",
+      "themeResidue": "a0a8adbba5a80d01"
+    },
+    {
+      "word": "КВЕЛЛИ",
+      "wordResidue": "a0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "a8a0a2b2a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "БИБЛИЯ",
+      "wordResidue": "a0a2b2a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "bfa0a2b2a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "ЕВАНГЕЛИЕ",
+      "wordResidue": "a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "a5aba8a5a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "ФОЛИАНТ",
+      "wordResidue": "a8a5a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "adb2a8a5a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "ДОМОСТРОЙ",
+      "wordResidue": "a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "b2b0aea9a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "КОРАН",
+      "wordResidue": "b2b0aea9a8aaa0a0a8adbba5a80d01",
+      "theme": "КНИГА",
+      "themeResidue": "b2b0aea9a8aaa0a0a8adbba5a80d01"
+    },
+    {
+      "word": "РЕЙД",
+      "wordResidue": "a0b2b0aea9a8aaa0a0a8adbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "КЛИПЕР",
+      "wordResidue": "a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "КЛИВЕР",
+      "wordResidue": "a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ШЛЮПКА",
+      "wordResidue": "a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "РЫНДА",
+      "wordResidue": "a8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "МАРС",
+      "wordResidue": "aaa8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "МОРЗЯНКА",
+      "wordResidue": "b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ВАНТЫ",
+      "wordResidue": "a8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ЗЮЙД",
+      "wordResidue": "aaa8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ШКИПЕР",
+      "wordResidue": "a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ШТИЛЬ",
+      "wordResidue": "a8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "СКЛЯНКИ",
+      "wordResidue": "40b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ЛОЦИЯ",
+      "wordResidue": "a8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "БОЦМАН",
+      "wordResidue": "a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "МОРСКИЕ ТЕРМИНЫ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "МАМАЙ",
+      "wordResidue": "a8a540b2a5b0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "БАТЫЙ",
+      "wordResidue": "a2aea4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "СУВОРОВ",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "АЛЕКСАНДР",
+      "wordResidue": "bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ГАННИБАЛ",
+      "wordResidue": "b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ЦЕЗАРЬ",
+      "wordResidue": "aea4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "КУТУЗОВ",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "НАПОЛЕОН",
+      "wordResidue": "b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ЖУКОВ",
+      "wordResidue": "a2aea4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ГУДЕРИАН",
+      "wordResidue": "b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "НАХИМОВ",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "УШАКОВ",
+      "wordResidue": "aea4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ИСТОМИН",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ПАУЛЮС",
+      "wordResidue": "aea4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "НЕЛЬСОН",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "ЧИНГИСХАН",
+      "wordResidue": "bbb0aca8adbbbba5a80d01",
+      "theme": "ПОЛКОВОДЦЫ",
+      "themeResidue": "b0aca8adbbbba5a80d01"
+    },
+    {
+      "word": "БАШУРОВ",
+      "wordResidue": "a4b6bbb0aca8adbbbba5a80d01",
+      "theme": "КЛАССНЫЙ ПАРЕНЬ",
+      "themeResidue": "bba5a80d01"
+    },
+    {
+      "word": "ПЛЕТЕНЕВ",
+      "wordResidue": "40afa0b0a5adbcbba5a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЖИТНИК",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОЧУБЕЙ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СОТНИКОВА",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "АЛЕКСЕЕВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "МОСКВИН",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "БОНДАРЕНКО",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "НЕЧПАЙ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "РЫЖИХ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "РЫБАЧЕНКО",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ОБУВАЛИН",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "АНДРОНОВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ТАТЫНОВА",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СОКОЛОВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОНДРАШЕНКО",
+      "wordResidue": "aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЧУРБАНОВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "БЫКОВ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОЗУБ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "УРМ",
+      "wordResidue": "b0b3a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЦВЕТКОВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "МАЙСУРАДЗЕ",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СТЕНИН",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КИБКАЛО",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЛУНЕВ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ГРЕБЕННИКОВ",
+      "wordResidue": "aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПЛЕТЕНЕВА",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ГОРБУНОВА",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПОГОДИНА",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОВАЛЕВА",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПОЛИКАРПОВ",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПЛЕТЕНЕВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПАНТЮШИНА",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СКИДАН",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ПАВЛУША",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ШАНИН",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ТИМЧЕНКО",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ШАПОРЕНКО",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "МЖАЧИХ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЧИПИЖКО",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "БАРЧЕНКОВ",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.02",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ФАРАФОНТОВ",
+      "wordResidue": "40aeb2a44e5052a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ГРОШЕВ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ШАУЛА",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КУЗНЕЦОВА",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СЕНЬКОВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ФИРСОВ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОВРИЖНЫХ",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ДЕЛОВ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СЕЛОВ",
+      "wordResidue": "a4ada8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ДИБИРОВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "СОТРУДНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "САРАЕВ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "БАХРАХ",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "БАТАЛОВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ШАГАЛИЕВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ВИНОКУРОВ",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЗМУШКО",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЛУКИН",
+      "wordResidue": "bcada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СОФРОНОВ",
+      "wordResidue": "aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КАРАПИШ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "РАССКАЗОВА",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ВОРОНИН",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ВОЛГИН",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КОВАЛЕВ",
+      "wordResidue": "a8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ШИНДЕРМАН",
+      "wordResidue": "a840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "НЕСТЕРЕНКО",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "КУХТИН",
+      "wordResidue": "ada8aaa840aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "СТЕПАНЕНКО",
+      "wordResidue": "40aeb2a44e5058a80d01",
+      "theme": "НАЧАЛЬНИКИ ОТД.08",
+      "themeResidue": "a80d01"
+    },
+    {
+      "word": "ЭФА",
+      "wordResidue": "a0abbcada8aaa840aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПИТОН",
+      "wordResidue": "a2aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГАДЮКА",
+      "wordResidue": "aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОБРА",
+      "wordResidue": "a2aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВАРАН",
+      "wordResidue": "a2aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЖАБА",
+      "wordResidue": "aea2aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГОЛОВАСТИК",
+      "wordResidue": "a5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГЮРЗА",
+      "wordResidue": "a2aea4adbba5aeb2a44e5058a80d01",
+      "theme": "ЗЕМНОВОДНЫЕ",
+      "themeResidue": "aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КАНДЕЛЯБР",
+      "wordResidue": "bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "bfa1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШИФОНЕР",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШКАФ",
+      "wordResidue": "abbcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СТОЛ",
+      "wordResidue": "abbcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СТУЛ",
+      "wordResidue": "abbcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БРА",
+      "wordResidue": "a5abbcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТОРШЕР",
+      "wordResidue": "b0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КРЕСЛО",
+      "wordResidue": "b0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПУФ",
+      "wordResidue": "a5abbcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШТОРА",
+      "wordResidue": "bcb0a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГАРДИНА",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СТЕЛЛАЖ",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a6a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ДИВАН",
+      "wordResidue": "bca6a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a6a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КРОВАТЬ",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "bca1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОВЕР",
+      "wordResidue": "bcbca1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "bca1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЛЮСТРА",
+      "wordResidue": "bca1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "bca1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЕРВАНТ",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b2a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЖАЛЮЗИ",
+      "wordResidue": "b2a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b2a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ФРАМУГА",
+      "wordResidue": "a1b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a0a1b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ФОРТОЧКА",
+      "wordResidue": "b0bba5aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aaa0b0bba5aeb2a44e5058a80d01"
+    },
+    {
+      "word": "РАСКЛАДУШКА",
+      "wordResidue": "aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a4b3b8aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТАХТА",
+      "wordResidue": "bca4b3b8aaa0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a4b3b8aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "УНИТАЗ",
+      "wordResidue": "a4b3b8aaa0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a4b3b8aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВАННА",
+      "wordResidue": "bca4b3b8aaa0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "a4b3b8aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТАБУРЕТ",
+      "wordResidue": "b3b8aaa0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b2b3b8aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СТОЛЕШНИЦА",
+      "wordResidue": "a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "ada8b6a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГАРНИТУР",
+      "wordResidue": "b6a0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b3b0b6a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КАРНИЗ",
+      "wordResidue": "b3b0b6a0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b3b0b6a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПАННО",
+      "wordResidue": "bcb3b0b6a0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "b3b0b6a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПИАНИНО",
+      "wordResidue": "b0b6a0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aeb0b6a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "АНТРЕСОЛЬ",
+      "wordResidue": "a0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aeabbca0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕНАЛ",
+      "wordResidue": "bcaeabbca0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aeabbca0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЛИТА",
+      "wordResidue": "bcaeabbca0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aeabbca0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "МОЙКА",
+      "wordResidue": "bcaeabbca0a0aeb2a44e5058a80d01",
+      "theme": "МЕБЕЛЬ",
+      "themeResidue": "aeabbca0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШАНЬГА",
+      "wordResidue": "aeabbca0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЛЮШКА",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВАТРУШКА",
+      "wordResidue": "bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БЕЛЯШ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СТУДЕНЬ",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЖУЛЬЕН",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БУЛЬОН",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЗРАЗЫ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШНИЦЕЛЬ",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШПИГ",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "АНТРЕКОТ",
+      "wordResidue": "bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОТЛЕТА",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БОРЩ",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "УХА",
+      "wordResidue": "a8ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ОМЛЕТ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЮРЕ",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕЛЬМЕНИ",
+      "wordResidue": "bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЩИ",
+      "wordResidue": "aba8ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВИНЕГРЕТ",
+      "wordResidue": "bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "САЛО",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЕЛЬД",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЗАКУСКА",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОЛБАСА",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЫР",
+      "wordResidue": "a8ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "МАЙОНЕЗ",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СМЕТАНА",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПОВИДЛО",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕРЕЦ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "УКСУС",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОРИЦА",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "МАНТЫ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "УХА",
+      "wordResidue": "a8ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВАРЕНИК",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ВАРЕНЬЕ",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕЧЕНЬЕ",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТОРТ",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЭКЛЕР",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПОНЧИК",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КЕТЧУП",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТМИН",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СОУС",
+      "wordResidue": "ada0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЕМГА",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СПАРЖА",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БЛИНЫ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ОЛИВЬЕ",
+      "wordResidue": "b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЧИПСЫ",
+      "wordResidue": "a0b0a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЕРВИЛАТ",
+      "wordResidue": "bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ШОКОЛАД",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СНИКЕРС",
+      "wordResidue": "a8bfa0a0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "a0a0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ФРИКАДЕЛЬКА",
+      "wordResidue": "aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ФИСТАШКА",
+      "wordResidue": "bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ОЛАДЬИ",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЫРНИК",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЗАПЕКАНКА",
+      "wordResidue": "aaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СУФЛЕ",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ДИЧЬ",
+      "wordResidue": "ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "МАРГАРИН",
+      "wordResidue": "bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЖИР",
+      "wordResidue": "a8ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "МАСЛО",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТВОРОГ",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СЫРОК",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ХЛЕБ",
+      "wordResidue": "ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СУШКА",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БАРАНКА",
+      "wordResidue": "a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "СУХАРЬ",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ЛЕДЕНЕЦ",
+      "wordResidue": "a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "КОНФЕТА",
+      "wordResidue": "a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ТЕФТЕЛЯ",
+      "wordResidue": "a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГРИБЫ",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ПАСТИЛА",
+      "wordResidue": "a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ОГУРЕЦ",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ИКРА",
+      "wordResidue": "ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ОСЕТРИНА",
+      "wordResidue": "bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БАЛЫК",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГАРНИР",
+      "wordResidue": "b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "АЗУ",
+      "wordResidue": "a8ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "РАГУ",
+      "wordResidue": "ada0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "ГУЛЯШ",
+      "wordResidue": "a0b0a8bfaaa0aeb2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "aaa0aeb2a44e5058a80d01"
+    },
+    {
+      "word": "БЕФСТРОГАНОВ",
+      "wordResidue": "b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВЫРЕЗКА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СОЧНИК",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "РАССТЕГАЙ",
+      "wordResidue": "adaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЧЕБУРЕК",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПАШТЕТ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЖЕЛАТИН",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЖЕЛЕ",
+      "wordResidue": "ada0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СДОБА",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "САЙКА",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ТЕСТО",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КАРАМЕЛЬ",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ИРИСКА",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЛЕДЕНЕЦ",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЦУКАТ",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МАРМЕЛАД",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ИЗЮМ",
+      "wordResidue": "ada0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КИШМИШ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВАФЛЯ",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МАМАЛЫГА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ОВСЯНКА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГЕРКУЛЕС",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КУНЖУТ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШАШЛЫК",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПИЦЦА",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ХАРЧО",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "САЦИВИ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГЛАЗУНЬЯ",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЯИЧНИЦА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КЕБАБ",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЛАНГЕТ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ФИЛЕ",
+      "wordResidue": "ada0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕРЕЦ",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СОЛЬ",
+      "wordResidue": "ada0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КРУПА",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МАНКА",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГРЕЧКА",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПШЕНО",
+      "wordResidue": "a0b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВЕРМИШЕЛЬ",
+      "wordResidue": "adaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МАКАРОНЫ",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГРЕНКИ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ТЕЛЯТИНА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГОВЯДИНА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "БАРАНИНА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СВИНИНА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ДРОЖЖИ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СОСИСКА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "САРДЕЛЬКА",
+      "wordResidue": "adaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "БУЖЕНИНА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВЕТЧИНА",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШАРЛОТКА",
+      "wordResidue": "bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КЛЕЦКИ",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "КУЛИНАРИЯ",
+      "themeResidue": "adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МОЛОКО",
+      "wordResidue": "b0a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПЕПСИ",
+      "wordResidue": "aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ФАНТА",
+      "wordResidue": "aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СОК",
+      "wordResidue": "a8b2aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЭЛЬ",
+      "wordResidue": "a8b2aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВИНО",
+      "wordResidue": "b2aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "РОМ",
+      "wordResidue": "a8b2aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СОДОВАЯ",
+      "wordResidue": "a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ТОНИК",
+      "wordResidue": "aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВОДА",
+      "wordResidue": "b2aaa8a8bfadaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a8bfadaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МИНЕРАЛКА",
+      "wordResidue": "adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaa0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "БОРЖОМИ",
+      "wordResidue": "aaa0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaa0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ДЖЮС",
+      "wordResidue": "b2aaa8aaa0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaa0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВЕРМУТ",
+      "wordResidue": "a8aaa0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaa0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "БОРМОТУХА",
+      "wordResidue": "adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КАГОР",
+      "wordResidue": "aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ХЕРЕС",
+      "wordResidue": "aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "СПИРТ",
+      "wordResidue": "aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "МОРС",
+      "wordResidue": "b2aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КВАС",
+      "wordResidue": "b2aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КРЮШОН",
+      "wordResidue": "a8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "КЕФИР",
+      "wordResidue": "aaa8b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "РЯЖЕНКА",
+      "wordResidue": "b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВАРЕНЕЦ",
+      "wordResidue": "b5a0adaea2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "b5a0adaea2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПРОСТОКВАША",
+      "wordResidue": "a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЧАЙ",
+      "wordResidue": "a8b2aaa8a2a0b8a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КОФЕ",
+      "wordResidue": "b2aaa8a2a0b8a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КАКАО",
+      "wordResidue": "aaa8a2a0b8a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "СЛИВКИ",
+      "wordResidue": "a8a2a0b8a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "СИДР",
+      "wordResidue": "b2aaa8a2a0b8a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a2a0b8a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГЛЕЙНТВЕЙН",
+      "wordResidue": "a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a5a9ada0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПОРТВЕЙН",
+      "wordResidue": "a9ada0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "ada9ada0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШАМПАНСКОЕ",
+      "wordResidue": "a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШНАПС",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЛИМОНАД",
+      "wordResidue": "aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "БРЮТ",
+      "wordResidue": "b2aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ПИВО",
+      "wordResidue": "b2aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВОДКА",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГРОГ",
+      "wordResidue": "b2aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КОНЬЯК",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ДЖИН",
+      "wordResidue": "b2aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ВИСКИ",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "БРЕНДИ",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "МУСКАТ",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ГОРИЛКА",
+      "wordResidue": "aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "РАКИЯ",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЧАЧА",
+      "wordResidue": "b2aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КУМЫС",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ЛИКЕР",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "РАССОЛ",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КИСЕЛЬ",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КОМПОТ",
+      "wordResidue": "a8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШИПУЧКА",
+      "wordResidue": "aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "СИТРО",
+      "wordResidue": "aaa8aaaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "aaaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "МЕДОВУХА",
+      "wordResidue": "aea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a0aea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "СБИТЕНЬ",
+      "wordResidue": "a0aea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a0aea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "НЕКТАР",
+      "wordResidue": "a8a0aea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a0aea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "НАРЗАН",
+      "wordResidue": "a8a0aea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "a0aea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "КОКТЕЙЛЬ",
+      "wordResidue": "aea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "bcaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "СИРОП",
+      "wordResidue": "aaa8bcaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "bcaea5a0a2b2a44e5058a80d01"
+    },
+    {
+      "word": "ШАРТРЕЗ",
+      "wordResidue": "bcaea5a0a2b2a44e5058a80d01",
+      "theme": "НАПИТКИ",
+      "themeResidue": "bcaea5a0a2b2a44e5058a80d01"
+    }
+  ]
+}

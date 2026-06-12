@@ -1,0 +1,22 @@
+# Spec
+
+- The DOS oracle is `Pole Chudes 2/POLE2.EXE`, a 16-bit MZ executable sized 56,528 bytes.
+- Required runtime assets are `POLE2.LIB`, `POLE.FNT`, `POLE.OVL`, and `POLE.PIC`. `POLE.LIB` is retained as an optional compatibility artifact and must not be overwritten.
+- `POLE2.LIB` is a sprite archive:
+  - byte `0`: sprite count
+  - bytes `1..127`: sprite sizes in 128-byte blocks
+  - sprite block header: `u16 width`, `u16 height`, `u16 padding`
+  - each row starts with `u16 len` and is decoded by row-wise RLE
+- `POLE.FNT` is a fixed-size bitmap font file with 8-pixel-wide glyphs and three planes:
+  - `0x0000..0x05ff`: 256 glyphs x 6 rows
+  - `0x0600..0x0dff`: 256 glyphs x 8 rows
+  - `0x0e00..0x1bff`: 256 glyphs x 14 rows
+- `POLE.OVL` stores question/theme pairs as 21-byte records:
+  - record `0`: plain decimal header count
+  - records `1..n`: CP866 bytes shifted by `+32`
+  - payload strings are limited to 20 bytes
+- `POLE.PIC` stores the leaderboard as 8 fixed records of 13 bytes:
+  - byte `0`: name length
+  - bytes `1..10`: CP866 player name
+  - bytes `11..12`: score as `u16le`
+- CP866 bytes are preserved for round-trips; gameplay text normalizes `Ё` to `Е` only for matching logic.

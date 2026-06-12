@@ -1,0 +1,18 @@
+{
+  "format": "pole-fnt",
+  "version": 2,
+  "planes": [
+    {
+      "height": 6,
+      "file": "fonts/font-6.webp"
+    },
+    {
+      "height": 8,
+      "file": "fonts/font-8.webp"
+    },
+    {
+      "height": 14,
+      "file": "fonts/font-14.webp"
+    }
+  ]
+}

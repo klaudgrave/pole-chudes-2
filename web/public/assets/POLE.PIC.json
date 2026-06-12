@@ -1,0 +1,46 @@
+{
+  "format": "pole-pic",
+  "version": 1,
+  "players": [
+    {
+      "name": "МАКС",
+      "score": 1440,
+      "residue": "9c8582b80300"
+    },
+    {
+      "name": "АЛЕКСЕЙ",
+      "score": 285,
+      "residue": "b80300"
+    },
+    {
+      "name": "ЛИСТЬЕВ",
+      "score": 120,
+      "residue": "b80300"
+    },
+    {
+      "name": "ЯКУБОВИЧ",
+      "score": 105,
+      "residue": "fa19"
+    },
+    {
+      "name": "ЛИСТЬЕВ",
+      "score": 90,
+      "residue": "88d60f"
+    },
+    {
+      "name": "ЯКУБОВИЧ",
+      "score": 75,
+      "residue": "0174"
+    },
+    {
+      "name": "КУДРЯВЦЕВА",
+      "score": 70,
+      "residue": ""
+    },
+    {
+      "name": "ЛИСТЬЕВ",
+      "score": 60,
+      "residue": "007417"
+    }
+  ]
+}

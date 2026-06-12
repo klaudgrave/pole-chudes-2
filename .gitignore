@@ -1,0 +1,11 @@
+# Local-only material (originals, upstream clone, scratch) — never published
+_local/
+
+# Generated artifacts (smoke screenshots/reports, decompiled-asset dumps)
+output/
+
+# Build/tooling
+node_modules/
+web/dist/
+*.log
+.DS_Store

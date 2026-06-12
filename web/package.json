@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "decompile:assets": "node ./scripts/decompile-assets.mjs",
+    "transcode:assets": "node ./scripts/transcode-assets.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "smoke": "node ./scripts/playwright-smoke.mjs",
+    "verify": "npm run test && npm run build && npm run smoke"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "playwright": "^1.58.2",
+    "sharp": "^0.35.1",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18"
+  }
+}
